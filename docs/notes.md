@@ -45,3 +45,4 @@ Notes and usage details for kakaocli.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
